@@ -1,2 +1,2 @@
 # Portfolio
-.
+Ipari informatika Portfólió
